@@ -1,0 +1,43 @@
+
+body{
+
+        background-color: aqua;
+        background-image: url("D:\MyImage.jpg");
+        background-position: right top;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+
+div{
+    
+
+    height:200px;
+
+    width:200px;
+
+    background-color: antiquewhite;
+
+    }
+
+
+
+.left{
+     
+    float:left
+
+    }
+
+    
+.right{
+     
+        float:right
+    
+    }
+
+.center{
+     
+            margin-left: 200px;
+            margin-right: 200px;
+        
+    }
