@@ -1,0 +1,27 @@
+push
+
+
+cd到git.目录下
+
+git init
+
+git add .
+
+git commit -m "init commit"
+
+
+clone
+
+(右键)
+git bash here
+
+git clone git://github.com/ChunzhuanLin/My.git
+
+git clone git@github.com/ChunzhuanLin/My.git
+
+
+
+
+
+
+
