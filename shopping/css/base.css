@@ -1,46 +1,34 @@
-
+/* 初始化页面 */
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
-body{
-
-        background-color: aqua;
-        
-        background-position: right top;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
+em,
+  i
+  {
+    font-style: normal;
 
     }
 
-.left{
-     
-    float:left;
-    height:1000px;
-
-    width:200px;
-
-    background-color: antiquewhite;
+    li{
+        list-style: none;
     }
 
-    
-.right{
-     
-        float:right;
-        height:1000px;
+    img{
+        border: 0;
+        vertical-align: middle;
 
-        width:200px;
-    
-        background-color: rgb(82, 107, 131);
-    
     }
 
-.center{
-     
-            margin-left: 200px;
-            margin-right: 200px;
-            height: 1000px;
-            
-        background-color: rgb(131, 82, 119);
-        
+    button{
+        cursor: pointer;
     }
+
+    a{
+        color: #666;
+        text-decoration: none;
+    }
+
+
+
